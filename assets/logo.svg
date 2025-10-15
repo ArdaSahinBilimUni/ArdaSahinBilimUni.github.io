@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+  <rect width="200" height="50" rx="12" fill="none"/>
+  <g font-family="Inter, sans-serif" font-weight="600" font-size="20" fill="#1C1C1C">
+    <text x="8" y="32">NovaTech</text>
+  </g>
+</svg>
